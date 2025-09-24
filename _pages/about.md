@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student of [Computer science and Technology, Zhejiang University](http://www.cs.zju.edu.cn//) where I have the privilege of conducting research under the supervision of [Prof.Zhou Zhao](https://scholar.google.com/citations?hl=zh-CN&user=IIoFY90AAAAJ).
+I am an junior undergraduate of [Computer science and Technology, Zhejiang University](http://www.cs.zju.edu.cn//) where I have the privilege of conducting research under the supervision of [Prof.Zhou Zhao](https://scholar.google.com/citations?hl=zh-CN&user=IIoFY90AAAAJ).
 Now, I am a research assistant of [Prof.Tao Yu](https://taoyds.github.io/) In [Xlang Lab](https://xlang.ai/) of Hongkong University.
 
-My research interest includes <span style="color:red">Embodied AI</span> and <span style="color:red">Audio-generation</span>. 
+My research interest includes <span style="color:red">Embodied AI</span> and <span style="color:red">Multimodal Generation</span>. 
 
 <!-- <span style="color:red">I am looking for a Ph.D. position starting in 2026 Fall. Please feel free to reach out!</span>   -->
-Email: huxintong@zju.edu.cn
+Email: huxintong@zju.edu.cn | [CV](XintongHu_CV.pdf)
 
 
 
