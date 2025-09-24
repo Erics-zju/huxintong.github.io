@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am an undergraduate student of [Computer science and Technology, Zhejiang University](http://www.cs.zju.edu.cn//) where I have the privilege of conducting research under the supervision of [Prof.Zhou Zhao](https://scholar.google.com/citations?hl=zh-CN&user=IIoFY90AAAAJ).
+Now, I am a research assistant of [Prof.Tao Yu](https://taoyds.github.io/) In [Xlang Lab](https://xlang.ai/) of Hongkong University.
 
 My research interest includes <span style="color:red">Embodied AI</span> and <span style="color:red">Audio-generation</span>. 
 
@@ -41,9 +42,17 @@ Email: huxintong@zju.edu.cn
 Wenxiang Guo<sup>*</sup>, Changhao Pan<sup>*</sup>, Zhiyuan Zhu<sup>*</sup>, **Xintong Hu**<sup>*</sup>, Yu Zhang<sup>*</sup>, Li Tang, Rui Yang, Han Wang, Zongbao Zhang, Yuhan Wang, Yixuan Chen, Hankun Xu, Ke Xu, Pengfei Fan, Zhetao Chen, Yanhao Yu, Qiange Huang, Fei Wu, Zhou Zhao<sup>†</sup>
 
 
-[<img src='images/MRSAudio-headImage.jpg' alt="demo" width="20px" style="vertical-align: middle; margin-right: 5px;"> **DemoPage**](https://mrsaudio.github.io/index.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[<i class="fab fa-github" style="font-size: 20px; margin-right: 5px;"></i>**Code**](https://github.com/MRSAudio/MRSAudio_Main) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="20px" style="vertical-align: middle; margin-right: 5px;"> **Dataset**](https://huggingface.co/datasets/verstar/MRSAudio) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<div style="display: flex; justify-content: space-between; margin: 20px 0;">
+  <div style="text-align: center;">
+    [<img src='images/MRSAudio-headImage.jpg' alt="demo" width="20px" style="vertical-align: middle; margin-right: 5px;"> **DemoPage**](https://mrsaudio.github.io/index.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </div>
+  <div style="text-align: center;">
+    [<i class="fab fa-github" style="font-size: 20px; margin-right: 5px;"></i>**Code**](https://github.com/MRSAudio/MRSAudio_Main) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </div>
+  <div style="text-align: center;">
+    [<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="20px" style="vertical-align: middle; margin-right: 5px;"> **Dataset**](https://huggingface.co/datasets/verstar/MRSAudio) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </div>
+</div>
 
 
 -Datasets: Establish MRSAudio, a 500-hour multimodal spatial audio dataset with ambisonic audio, synchronized video, motion trajectories, and fine-grained annotations (transcripts, lyrics, scores), covering 4 real-world scenarios (daily life/speech/singing/music).
@@ -59,6 +68,8 @@ Wenxiang Guo<sup>*</sup>, Changhao Pan<sup>*</sup>, Zhiyuan Zhu<sup>*</sup>, **X
 
 Hanyang Yuan<sup>*</sup>,,Ning Tang, Tongya Zheng, Jiarong Xu, **Xintong Hu**, Renhong Huang, Shunyu Liu, Jiacong Hu, Jiawei Chen, Mingli Song<sup>†</sup>
 
+
+</div> </div> 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
