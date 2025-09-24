@@ -24,10 +24,14 @@ My research interest includes <span style="color:red">Embodied AI</span> and <sp
 
 
 
+<span class='anchor' id='-news'></span>
+
 # 🔥 News
 - *2025.09*: &nbsp; 🎉🎉 "MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations" is accepted by NeurIPS2025.
 - *2025.09*: &nbsp; 🎉🎉 "Tree of Preferences for Diversified Recommendation" is accepted by NeurIPS2025.
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+<span class='anchor' id='-publications'></span>
 
 # 📝 Publications 
 
@@ -74,12 +78,16 @@ My research interest includes <span style="color:red">Embodied AI</span> and <sp
 </div>
 
 
+<span class='anchor' id='-honors-and-awards'></span>
+
 # 🎖 Honors and Awards
 - *2024.10* **National Scholarship(Top 1%)**.
 - *2024.11* Zhejiang Province "Shangde Scholar" Award (Single Recipient).
 - *2024.11* Zhejiang University CS ”Campus Star” Honor (Top 10 Students).
 - *2024.09* Zhejiang University First-Class Scholarship(Top 3%).
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+<span class='anchor' id='-educations'></span>
 
 # 📖 Educations
 - *2022.09 - Now*, *B.S.* Zhejiang University, School of Computer Science and Technology. 
@@ -88,6 +96,8 @@ My research interest includes <span style="color:red">Embodied AI</span> and <sp
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
+<span class='anchor' id='-internships'></span>
 
 # 💻 Internships
 
