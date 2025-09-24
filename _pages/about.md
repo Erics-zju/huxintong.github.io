@@ -18,9 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am an junior undergraduate of [Computer science and Technology, Zhejiang University](http://www.cs.zju.edu.cn//) where I have the privilege of conducting research under the supervision of [Prof.Zhou Zhao](https://scholar.google.com/citations?hl=zh-CN&user=IIoFY90AAAAJ).
-Now, I am a research assistant of [Prof.Tao Yu](https://taoyds.github.io/) In [Xlang Lab](https://xlang.ai/) of Hongkong University.
+Now, I am a research assistant of [Prof.Tao Yu](https://taoyds.github.io/) In [Xlang Lab](https://xlang.ai/) of Hongkong University.My research interest includes <span style="color:red">Embodied AI</span> and <span style="color:red">Multimodal Generation</span>. Feel free to reach out to me if you are interested in my work, have any questions or ideas to discuss with!
 
-My research interest includes <span style="color:red">Embodied AI</span> and <span style="color:red">Multimodal Generation</span>. 
 
 
 
