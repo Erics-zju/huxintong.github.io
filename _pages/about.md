@@ -75,6 +75,7 @@ My research interest includes <span style="color:red">Embodied AI</span> and <sp
 
   [<i class="fab fa-github" style="font-size: 20px; margin-right: 5px;"></i>**Code**](https://anonymous.4open.science/r/TPRec-7047/README.md) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
+  -Abstract: With the help of the agent, complete the user information to improve the diversity of recommendations. Use Agent to help solve the Filter Bubble problem in traditional recommendation algorithms.
   </div>
 </div>
 
