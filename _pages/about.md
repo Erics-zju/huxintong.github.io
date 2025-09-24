@@ -34,7 +34,14 @@ Email: huxintong@zju.edu.cn
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/MRSAudio.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+<div class='paper-box-image'>
+  <div>
+    <div class="badge">NeurIPS 2025</div>
+    <img src='images/MRSAudio.jpg' alt="sym" width="100%" style="margin-bottom: 10px;">
+    <img src='images/MRSAudio-2.jpg' alt="sym" width="100%">
+  </div>
+</div>
 <div class='paper-box-text' markdown="1">
 
 [MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations](https://openreview.net/forum?id=p2pRiDwjDa&noteId=TmGqB9RN30)
