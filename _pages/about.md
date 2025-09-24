@@ -94,17 +94,17 @@ Email: huxintong@zju.edu.cn | [CV](XintongHu_CV.pdf)
 
 # 💻 Internships
 
-## [XLANG NLP Lab, The University of Hong Kong](https://xlang.ai) (Hong Kong)
+**[XLANG NLP Lab, The University of Hong Kong](https://xlang.ai) (Hong Kong)**
 *Research Assistant* (06/2025 -- Present)  
 Advisor: Prof. Tao Yu  
 Research Topic: **Embodied AI**
 
-## YiWise Lab, Zhejiang University (Hangzhou)
+**YiWise Lab, Zhejiang University (Hangzhou)**
 *Research Assistant* (02/2025 -- 06/2025)  
 Advisor: Prof. Zhou Zhao  
 Research Topic: **Spatial Audio**
 
-## [VIPA Lab, Zhejiang University](https://www.vipazoo.cn/) (Hangzhou)
+**[VIPA Lab, Zhejiang University](https://www.vipazoo.cn/) (Hangzhou)**
 *Research Assistant* (07/2024 -- 02/2025)  
 Advisor: Prof. Mingli Song  
 Research Topic: **Recommendation**
