@@ -3,12 +3,12 @@
     "short_name": "Xintong Hu",
     "icons": [
        {
-          "src": "images/personal_image.png",
+          "src": "/huxintong.github.io/images/personal_image.jpg",
           "sizes": "192x192",
           "type": "image/png"
        },
        {
-        "src": "images/personal_image.png",
+        "src": "/huxintong.github.io/images/personal_image.jpg",
         "sizes": "512x512",
         "type": "image/png"
         }
