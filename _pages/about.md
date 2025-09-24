@@ -57,7 +57,7 @@ Wenxiang Guo<sup>*</sup>, Changhao Pan<sup>*</sup>, Zhiyuan Zhu<sup>*</sup>, **X
 -Datasets: Establish MRSAudio, a 500-hour multimodal spatial audio dataset with ambisonic audio, synchronized video, motion trajectories, and fine-grained annotations (transcripts, lyrics, scores), covering 4 real-world scenarios (daily life/speech/singing/music).
 <br>
 -Benchmark: Unified benchmark for 5 spatial audio tasks (spatialization, text-to-speech, singing synthesis, music generation, sound localization) enabling 3D-aware audio modeling.
-<div>
+</div>
 </div>
 
 
@@ -69,7 +69,8 @@ Wenxiang Guo<sup>*</sup>, Changhao Pan<sup>*</sup>, Zhiyuan Zhu<sup>*</sup>, **X
 Hanyang Yuan<sup>*</sup>,,Ning Tang, Tongya Zheng, Jiarong Xu, **Xintong Hu**, Renhong Huang, Shunyu Liu, Jiacong Hu, Jiawei Chen, Mingli Song<sup>†</sup>
 
 
-<div> </div> 
+</div>
+</div> 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
