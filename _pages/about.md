@@ -17,44 +17,59 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student of [School of Intelligence Science and Technology, Nanjing University](https://is.nju.edu.cn/) where I have the privilege of conducting research under the supervision of [Prof. Kai Zhang](https://cszn.github.io/).
+I am an undergraduate student of [Computer science and Technology, Zhejiang University](http://www.cs.zju.edu.cn//) where I have the privilege of conducting research under the supervision of [Prof.Zhou Zhao](https://scholar.google.com/citations?hl=zh-CN&user=IIoFY90AAAAJ).
 
-My research interest includes Computer Vision and Multimodal Learning. 
+My research interest includes <span style="color:red">Embodied AI</span> and <span style="color:red">Audio-generation</span>. 
 
-<span style="color:red">I am looking for a Ph.D. position starting in 2026 Fall. Please feel free to reach out!</span>  
-Email: xuhonghuang@smail.nju.edu.cn
+<!-- <span style="color:red">I am looking for a Ph.D. position starting in 2026 Fall. Please feel free to reach out!</span>   -->
+Email: huxintong@zju.edu.cn
 
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 Reverse Convolution and Its application to Image Restoration is accepted by ICCV2025.
+- *2025.09*: &nbsp; 🎉🎉 "MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations" is accepted by NeurIPS2025.
+- *2025.09*: &nbsp; 🎉🎉 "Tree of Preferences for Diversified Recommendation" is accepted by NeurIPS2025.
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/1751533534899.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/MRSAudio.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Reverse Convolution and Its application to Image Restoration](https://arxiv.org/pdf/2508.09824)
+[MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations](https://openreview.net/forum?id=p2pRiDwjDa&noteId=TmGqB9RN30)
 
-Xuhong Huang<sup>*</sup>, Shiqi Liu<sup>*</sup>, Kai Zhang<sup>†</sup>, Ying Tai, Jian Yang, Hui Zeng, Lei Zhang
+Wenxiang Guo<sup>*</sup>, Changhao Pan<sup>*</sup>, Zhiyuan Zhu<sup>*</sup>, **Xintong Hu**<sup>*</sup>, Yu Zhang<sup>*</sup>, Li Tang, Rui Yang, Han Wang, Zongbao Zhang, Yuhan Wang, Yixuan Chen, Hankun Xu, Ke Xu, Pengfei Fan, Zhetao Chen, Yanhao Yu, Qiange Huang, Fei Wu, Zhou Zhao<sup>†</sup>
 
-[**Project**](https://github.com/cszn/ConverseNet) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose a novel depthwise
-reverse convolution operator as a first-step exploration to
-effectively reverse the depthwise convolution by formulating and solving a regularized least-squares optimization
-problem.
+
+[**DemoPage**](https://mrsaudio.github.io/index.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/MRSAudio/MRSAudio_Main) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Dataset**](https://huggingface.co/datasets/verstar/MRSAudio) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+
+-Datasets: Establish MRSAudio, a 500-hour multimodal spatial audio dataset with ambisonic audio, synchronized video, motion trajectories, and fine-grained annotations (transcripts, lyrics, scores), covering 4 real-world scenarios (daily life/speech/singing/music).
+<br>
+-Benchmark: Unified benchmark for 5 spatial audio tasks (spatialization, text-to-speech, singing synthesis, music generation, sound localization) enabling 3D-aware audio modeling.
 </div>
-</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/Tree_of_preference.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Tree of Preferences for Diversified Recommendation](https://openreview.net/forum?id=KlZUwDP0pR&noteId=vB7YeUWlGH)
+
+Hanyang Yuan<sup>*</sup>,,Ning Tang, Tongya Zheng, Jiarong Xu, Xintong Hu, Renhong Huang, Shunyu Liu, Jiacong Hu, Jiawei Chen, Mingli Song<sup>†</sup>
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2024.10* National Scholarship.
+- *2024.10* National Scholarship(Top 1%).
+- *2024.11* Zhejiang Province "Shangde Scholar" Award (Single Recipient).
+- *2024.11* Zhejiang University CS ”Campus Star” Honor (Top 10 Students).
+- *2024.09* Zhejiang University First-Class Scholarship(Top 3%).
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2022.09 - Now*, *B.S.* Nanjing University, School of Intelligence Science and Technology. 
+- *2022.09 - Now*, *B.S.* Zhejiang University, School of Computer Science and Technology. 
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <!-- # 💬 Invited Talks
