@@ -40,7 +40,7 @@ My research interest includes <span style="color:red">Embodied AI</span> and <sp
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">NeurIPS 2025</div>
+      <div class="badge">NeurIPS 2025 Poster</div>
       <img src='images/MRSAudio.jpg' alt="sym" width="100%" style="margin-bottom: 10px;">
       <img src='images/MRSAudio-2.jpg' alt="sym" width="100%">
       </div>
@@ -66,13 +66,14 @@ My research interest includes <span style="color:red">Embodied AI</span> and <sp
 
 <!-- paper2 ： Tree of Preference  -->
 <div class='paper-box'>
-  <div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/Tree_of_preference.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Poster</div><img src='images/Tree_of_preference.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   [Tree of Preferences for Diversified Recommendation](https://openreview.net/forum?id=KlZUwDP0pR&noteId=vB7YeUWlGH)
 
-  Hanyang Yuan<sup>*</sup>,,Ning Tang, Tongya Zheng, Jiarong Xu, **Xintong Hu**, Renhong Huang, Shunyu Liu, Jiacong Hu, Jiawei Chen, Mingli Song<sup>†</sup>
+  Hanyang Yuan,Ning Tang, Tongya Zheng, Jiarong Xu, **Xintong Hu**, Renhong Huang, Shunyu Liu, Jiacong Hu, Jiawei Chen, Mingli Song<sup>†</sup>
 
+  [<i class="fab fa-github" style="font-size: 20px; margin-right: 5px;"></i>**Code**](https://anonymous.4open.science/r/TPRec-7047/README.md) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
   </div>
 </div>
