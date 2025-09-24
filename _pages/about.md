@@ -64,20 +64,21 @@ Email: huxintong@zju.edu.cn
 
 
 <!-- paper2 ： Tree of Preference  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/Tree_of_preference.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/Tree_of_preference.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
 
-[Tree of Preferences for Diversified Recommendation](https://openreview.net/forum?id=KlZUwDP0pR&noteId=vB7YeUWlGH)
+  [Tree of Preferences for Diversified Recommendation](https://openreview.net/forum?id=KlZUwDP0pR&noteId=vB7YeUWlGH)
 
-Hanyang Yuan<sup>*</sup>,,Ning Tang, Tongya Zheng, Jiarong Xu, **Xintong Hu**, Renhong Huang, Shunyu Liu, Jiacong Hu, Jiawei Chen, Mingli Song<sup>†</sup>
+  Hanyang Yuan<sup>*</sup>,,Ning Tang, Tongya Zheng, Jiarong Xu, **Xintong Hu**, Renhong Huang, Shunyu Liu, Jiacong Hu, Jiawei Chen, Mingli Song<sup>†</sup>
 
 
-</div>
+  </div>
 </div>
 
 
 # 🎖 Honors and Awards
-- *2024.10* National Scholarship(Top 1%).
+- *2024.10* **National Scholarship(Top 1%)**.
 - *2024.11* Zhejiang Province "Shangde Scholar" Award (Single Recipient).
 - *2024.11* Zhejiang University CS ”Campus Star” Honor (Top 10 Students).
 - *2024.09* Zhejiang University First-Class Scholarship(Top 3%).
