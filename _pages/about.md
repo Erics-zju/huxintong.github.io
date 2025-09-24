@@ -41,9 +41,9 @@ Email: huxintong@zju.edu.cn
 Wenxiang Guo<sup>*</sup>, Changhao Pan<sup>*</sup>, Zhiyuan Zhu<sup>*</sup>, **Xintong Hu**<sup>*</sup>, Yu Zhang<sup>*</sup>, Li Tang, Rui Yang, Han Wang, Zongbao Zhang, Yuhan Wang, Yixuan Chen, Hankun Xu, Ke Xu, Pengfei Fan, Zhetao Chen, Yanhao Yu, Qiange Huang, Fei Wu, Zhou Zhao<sup>†</sup>
 
 
-[**DemoPage**](https://mrsaudio.github.io/index.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Code**](https://github.com/MRSAudio/MRSAudio_Main) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**Dataset**](https://huggingface.co/datasets/verstar/MRSAudio) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[<img src='images/MRSAudio-headImage.jpg' alt="demo" width="20px" style="vertical-align: middle; margin-right: 5px;"> **DemoPage**](https://mrsaudio.github.io/index.html) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[<i class="fab fa-github" style="font-size: 20px; margin-right: 5px;"></i>**Code**](https://github.com/MRSAudio/MRSAudio_Main) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="20px" style="vertical-align: middle; margin-right: 5px;"> **Dataset**](https://huggingface.co/datasets/verstar/MRSAudio) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 
 -Datasets: Establish MRSAudio, a 500-hour multimodal spatial audio dataset with ambisonic audio, synchronized video, motion trajectories, and fine-grained annotations (transcripts, lyrics, scores), covering 4 real-world scenarios (daily life/speech/singing/music).
@@ -57,7 +57,7 @@ Wenxiang Guo<sup>*</sup>, Changhao Pan<sup>*</sup>, Zhiyuan Zhu<sup>*</sup>, **X
 
 [Tree of Preferences for Diversified Recommendation](https://openreview.net/forum?id=KlZUwDP0pR&noteId=vB7YeUWlGH)
 
-Hanyang Yuan<sup>*</sup>,,Ning Tang, Tongya Zheng, Jiarong Xu, Xintong Hu, Renhong Huang, Shunyu Liu, Jiacong Hu, Jiawei Chen, Mingli Song<sup>†</sup>
+Hanyang Yuan<sup>*</sup>,,Ning Tang, Tongya Zheng, Jiarong Xu, **Xintong Hu**, Renhong Huang, Shunyu Liu, Jiacong Hu, Jiawei Chen, Mingli Song<sup>†</sup>
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
