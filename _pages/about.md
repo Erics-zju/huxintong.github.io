@@ -23,7 +23,7 @@ Now, I am a research assistant of [Prof.Tao Yu](https://taoyds.github.io/) In [X
 My research interest includes <span style="color:red">Embodied AI</span> and <span style="color:red">Multimodal Generation</span>. 
 
 <!-- <span style="color:red">I am looking for a Ph.D. position starting in 2026 Fall. Please feel free to reach out!</span>   -->
-Email: huxintong@zju.edu.cn | [CV](XintongHu_CV.pdf)
+Email: huxintong@zju.edu.cn
 
 
 
