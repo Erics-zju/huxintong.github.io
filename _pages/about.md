@@ -82,9 +82,12 @@ Now, I am a research assistant of [Prof.Tao Yu](https://taoyds.github.io/) In [X
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
+- *2025.10* **National Scholarship(Top 1%)**.
 - *2024.10* **National Scholarship(Top 1%)**.
+- *2025.06* 2025 IEEE ASRU AudioMos Challenge **Second Prize**.
 - *2024.11* Zhejiang Province "Shangde Scholar" Award (Single Recipient).
 - *2024.11* Zhejiang University CS ”Campus Star” Honor (Top 10 Students).
+- *2025.09* Zhejiang University First-Class Scholarship (Top 3%).
 - *2024.09* Zhejiang University First-Class Scholarship(Top 3%).
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
