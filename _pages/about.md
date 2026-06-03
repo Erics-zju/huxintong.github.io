@@ -54,13 +54,13 @@ I am an incoming Ph.D. student of [Prof. Tao Yu](https://taoyds.github.io/) at [
   [<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="20px" style="vertical-align: middle; margin-right: 5px;"> **RoboFine-VLM**](https://huggingface.co/xlangai/RoboFine-VLM-397B-A17B)
   [<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="20px" style="vertical-align: middle; margin-right: 5px;"> **Benchmark**](https://huggingface.co/datasets/xlangai/RoboFine-bench)
 
-  - **FineVLA-Data & Pipeline**: A data construction tool that unifies 972,247 trajectories across 85K tasks from 10 open-source robot datasets, producing 47,159 human-verified fine-grained trajectories.
+  - **FineVLA-Data & Pipeline**: Unifies 972K trajectories from 10 robot datasets into 47K human-verified fine-grained trajectories.
   <br>
-  - **RoboFine-Bench**: A held-out benchmark with 500 videos, 10,816 atomic facts, and 1,030 VQA questions for evaluating fine-grained robotic video understanding.
+  - **RoboFine-Bench**: 500-video benchmark with 10K+ atomic facts and 1K VQA questions for fine-grained robotic video understanding.
   <br>
-  - **RoboFine-VLM**: A robotics-specialized VLM annotator for scalable fine-grained annotation of robot trajectories.
+  - **RoboFine-VLM**: Robotics-specialized VLM annotator for scalable fine-grained trajectory annotation.
   <br>
-  - **FineVLA-Policy**: A steerable VLA policy trained with controlled mixtures of fine-grained and raw goal-level instructions, reaching 86.8%/82.5% in RoboTwin and 62.7/100 in real-world dual-arm manipulation.
+  - **FineVLA-Policy**: Steerable VLA policy achieving 86.8%/82.5% in RoboTwin and 62.7/100 in real-world dual-arm manipulation.
   </div>
 </div>
 
@@ -81,11 +81,9 @@ I am an incoming Ph.D. student of [Prof. Tao Yu](https://taoyds.github.io/) at [
   [<i class="fab fa-github" style="font-size: 20px; margin-right: 5px;"></i>**Code**](https://github.com/QwenLM/Qwen-VLA) <img src="https://img.shields.io/github/stars/QwenLM/Qwen-VLA?style=social" alt="GitHub stars" style="vertical-align: middle; margin-left: 5px;">
   [🌐 **Project Page**](https://qwen.ai/blog?id=qwenvla)
 
-  - A unified embodied foundation model that extends Qwen's vision-language stack to continuous action and trajectory generation via a DiT-based action decoder, unifying manipulation, navigation, and trajectory prediction across diverse robot embodiments.
+  - A unified embodied foundation model extending Qwen's VL stack to action and trajectory generation via a DiT-based decoder, unifying manipulation, navigation, and trajectory prediction.
   <br>
-  - Trained on large-scale heterogeneous data (robot trajectories, egocentric demos, simulation, VLN, vision-language) with embodiment-aware prompt conditioning for multi-platform support.
-  <br>
-  - Achieves 97.9% on LIBERO, 86.1%/87.2% on RoboTwin-Easy/Hard, 69.0% OSR on R2R, 76.9% OOD success on real-world ALOHA, and 26.6% zero-shot success on DOMINO dynamic manipulation.
+  - Achieves 97.9% on LIBERO, 86.1%/87.2% on RoboTwin, 69.0% OSR on R2R, 76.9% OOD success on real-world ALOHA.
   </div>
 </div>
 
