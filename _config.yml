@@ -22,15 +22,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xintong Hu(胡鑫通)"
-  avatar           : "images/personal_image.jpg"
+  avatar           : "images/profile-image.jpg"
   bio              : "Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YPdnt6QAAAAJ&hl=zh-CN&authuser=2"
-  email            : "erics.xintonghu@gmail.com"
+  email            : "xintonghu.erics@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  cv               : "XintongHu_CV.pdf"  # Custom field for CV
+  cv               :   # Custom field for CV
   uri              :
   bitbucket        :
   codepen          :

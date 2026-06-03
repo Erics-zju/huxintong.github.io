@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an junior undergraduate of [Computer science and Technology, Zhejiang University](http://www.cs.zju.edu.cn//) where I have the privilege of conducting research under the supervision of [Prof.Zhou Zhao](https://scholar.google.com/citations?hl=zh-CN&user=IIoFY90AAAAJ).
-Now, I am a research assistant of [Prof.Tao Yu](https://taoyds.github.io/) In [Xlang Lab](https://xlang.ai/) of Hongkong University.My research interest includes <span style="color:red">Embodied AI</span> and <span style="color:red">Multimodal Generation</span>. Feel free to reach out to me if you are interested in my work, have any questions or ideas to discuss with!
+I am an incoming Ph.D. student of [Prof. Tao Yu](https://taoyds.github.io/) at [XLANG Lab](https://xlang.ai/), The University of Hong Kong, and a research intern at the Qwen Team, Alibaba Group. My research interest focuses on <span style="color:red">Embodied AI (VLA and WAM)</span>. I received my B.S. in [Computer Science and Technology](http://www.cs.zju.edu.cn/) from Zhejiang University, where I was fortunate to be advised by [Prof. Zhou Zhao](https://scholar.google.com/citations?hl=zh-CN&user=IIoFY90AAAAJ). Feel free to reach out if you are interested in my work or have any questions to discuss!
 
 
 
@@ -26,6 +25,8 @@ Now, I am a research assistant of [Prof.Tao Yu](https://taoyds.github.io/) In [X
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2026.05*: &nbsp; 🎉🎉 "FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies" is released on arXiv.
+- *2026.05*: &nbsp; 🎉🎉 "Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments" is released on arXiv.
 - *2025.09*: &nbsp; 🎉🎉 "MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations" is accepted by NeurIPS2025.
 - *2025.09*: &nbsp; 🎉🎉 "Tree of Preferences for Diversified Recommendation" is accepted by NeurIPS2025.
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -33,6 +34,60 @@ Now, I am a research assistant of [Prof.Tao Yu](https://taoyds.github.io/) In [X
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications 
+
+
+<!-- paper: FineVLA -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Preprint 2026</div>
+      <img src='images/FineVLA-main.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies](https://arxiv.org/abs/2605.27284)
+
+  **Xintong Hu**<sup>*</sup>, Xuhong Huang<sup>*</sup>, Jinyu Zhang, Yutong Yao, Yuchong Sun, Qiuyue Wang, Mingsheng Li, Sicheng Xie, Yitao Liu, Junhao Chen, Yixuan Chen, Yingming Zheng, Shuai Bai, Tao Yu
+
+  [🌐 **Project Page**](https://finevla.xlang.ai/)
+  [<i class="fab fa-github" style="font-size: 20px; margin-right: 5px;"></i>**Code**](https://github.com/xlang-ai/FineVLA)
+  [<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="20px" style="vertical-align: middle; margin-right: 5px;"> **RoboFine-VLM**](https://huggingface.co/xlangai/RoboFine-VLM-397B-A17B)
+  [<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="20px" style="vertical-align: middle; margin-right: 5px;"> **Benchmark**](https://huggingface.co/datasets/xlangai/RoboFine-bench)
+
+  - **FineVLA-Data & Pipeline**: A data construction tool that unifies 972,247 trajectories across 85K tasks from 10 open-source robot datasets, producing 47,159 human-verified fine-grained trajectories.
+  <br>
+  - **RoboFine-Bench**: A held-out benchmark with 500 videos, 10,816 atomic facts, and 1,030 VQA questions for evaluating fine-grained robotic video understanding.
+  <br>
+  - **RoboFine-VLM**: A robotics-specialized VLM annotator for scalable fine-grained annotation of robot trajectories.
+  <br>
+  - **FineVLA-Policy**: A steerable VLA policy trained with controlled mixtures of fine-grained and raw goal-level instructions, reaching 86.8%/82.5% in RoboTwin and 62.7/100 in real-world dual-arm manipulation.
+  </div>
+</div>
+
+
+<!-- paper: Qwen-VLA -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Preprint 2026</div>
+      <img src='images/qwen-vla-main.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments](https://arxiv.org/abs/2605.30280)
+
+  Qwen Team (**Xintong Hu** is a **core contributor**)
+
+  [<i class="fab fa-github" style="font-size: 20px; margin-right: 5px;"></i>**Code**](https://github.com/QwenLM/Qwen-VLA) <img src="https://img.shields.io/github/stars/QwenLM/Qwen-VLA?style=social" alt="GitHub stars" style="vertical-align: middle; margin-left: 5px;">
+  [🌐 **Project Page**](https://qwen.ai/blog?id=qwenvla)
+
+  - A unified embodied foundation model that extends Qwen's vision-language stack to continuous action and trajectory generation via a DiT-based action decoder, unifying manipulation, navigation, and trajectory prediction across diverse robot embodiments.
+  <br>
+  - Trained on large-scale heterogeneous data (robot trajectories, egocentric demos, simulation, VLN, vision-language) with embodiment-aware prompt conditioning for multi-platform support.
+  <br>
+  - Achieves 97.9% on LIBERO, 86.1%/87.2% on RoboTwin-Easy/Hard, 69.0% OSR on R2R, 76.9% OOD success on real-world ALOHA, and 26.6% zero-shot success on DOMINO dynamic manipulation.
+  </div>
+</div>
 
 
 <!-- paper1 ： MRSAudio  -->
@@ -104,6 +159,11 @@ Now, I am a research assistant of [Prof.Tao Yu](https://taoyds.github.io/) In [X
 <span class='anchor' id='internships'></span>
 
 # 💻 Internships
+
+**Alibaba Group, Qwen Team (Hangzhou)**
+*Research Intern* (01/2026 -- Present)  
+Advisor: Shuai Bai  
+Research Topic: **Vision-Language-Action (VLA)**
 
 **[XLANG NLP Lab, The University of Hong Kong](https://xlang.ai) (Hong Kong)**
 *Research Assistant* (06/2025 -- Present)  
