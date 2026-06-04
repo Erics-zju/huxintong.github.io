@@ -54,13 +54,7 @@ I am an incoming Ph.D. student of [Prof. Tao Yu](https://taoyds.github.io/) at [
   [<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="20px" style="vertical-align: middle; margin-right: 5px;"> **RoboFine-VLM**](https://huggingface.co/xlangai/RoboFine-VLM-397B-A17B)
   [<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="20px" style="vertical-align: middle; margin-right: 5px;"> **Benchmark**](https://huggingface.co/datasets/xlangai/RoboFine-bench)
 
-  - **FineVLA-Data & Pipeline**: Unifies 972K trajectories from 10 robot datasets into 47K human-verified fine-grained trajectories.
-  <br>
-  - **RoboFine-Bench**: 500-video benchmark with 10K+ atomic facts and 1K VQA questions for fine-grained robotic video understanding.
-  <br>
-  - **RoboFine-VLM**: Robotics-specialized VLM annotator for scalable fine-grained trajectory annotation.
-  <br>
-  - **FineVLA-Policy**: Steerable VLA policy achieving 86.8%/82.5% in RoboTwin and 62.7/100 in real-world dual-arm manipulation.
+  An open framework for fine-grained VLA supervision, including: (1) **FineVLA-Data & Pipeline** that unifies 972K trajectories from 10 robot datasets into 47K human-verified fine-grained trajectories; (2) **RoboFine-Bench**, a 500-video benchmark with 10K+ atomic facts and 1K VQA questions; (3) **RoboFine-VLM**, a robotics-specialized VLM annotator for scalable trajectory annotation; (4) **FineVLA-Policy**, a steerable VLA policy achieving 86.8%/82.5% in RoboTwin and 62.7/100 in real-world dual-arm manipulation.
   </div>
 </div>
 
