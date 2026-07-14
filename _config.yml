@@ -30,7 +30,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=paBkmxQAAAAJ&hl=en"
   email            : "xintonghu.erics@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  cv               :   # Custom field for CV
+  cv               : "/docs/XintongHu_CV.pdf"  # Custom field for CV
   uri              :
   bitbucket        :
   codepen          :
@@ -66,7 +66,6 @@ include:
   - _pages
   - files
 exclude:
-  - docs
   - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"

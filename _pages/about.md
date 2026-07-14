@@ -50,7 +50,7 @@ I am an incoming Ph.D. student of [Prof. Tao Yu](https://taoyds.github.io/) at [
   **Xintong Hu**<sup>*</sup>, Xuhong Huang<sup>*</sup>, Jinyu Zhang, Yutong Yao, Yuchong Sun, Qiuyue Wang, Mingsheng Li, Sicheng Xie, Yitao Liu, Junhao Chen, Yixuan Chen, Yingming Zheng, Shuai Bai, Tao Yu
 
   [🌐 **Project Page**](https://finevla.xlang.ai/)
-  [<i class="fab fa-github" style="font-size: 20px; margin-right: 5px;"></i>**Code**](https://github.com/xlang-ai/FineVLA)
+  [<i class="fab fa-github" style="font-size: 20px; margin-right: 5px;"></i>**Code**](https://github.com/xlang-ai/FineVLA) <img src="https://img.shields.io/github/stars/xlang-ai/FineVLA?style=social" alt="GitHub stars" style="vertical-align: middle; margin-left: 5px;">
   [<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="20px" style="vertical-align: middle; margin-right: 5px;"> **RoboFine-VLM**](https://huggingface.co/xlangai/RoboFine-VLM-397B-A17B)
   [<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="20px" style="vertical-align: middle; margin-right: 5px;"> **Benchmark**](https://huggingface.co/datasets/xlangai/RoboFine-bench)
 
